@@ -1,4 +1,4 @@
-# 🚴‍♂️ Exploratory Data Analysis on E-Bike Sharing Usage Patterns
+# 🚴‍♂️ Exploratory Data Analysis on E-Bike 
 
 ## 📊 Project Overview
 
