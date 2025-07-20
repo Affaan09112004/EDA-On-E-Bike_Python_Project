@@ -79,14 +79,6 @@ All graphs are created using **very basic syntax** — perfect for beginners in 
 
 ---
 
-## ✅ Conclusion
-
-This EDA project shows how simple data transformations and visualizations can uncover **powerful insights** from even basic bike-sharing data. By categorizing time, cleaning duration values, and comparing user types, the analysis paints a clear picture of user behavior.
-
-This project can serve as a great starting point for further analysis or building predictive models (e.g., predicting trip duration or peak times).
-
----
-
 ## 👤 Author
 
 **Affaan Waghoo**  
