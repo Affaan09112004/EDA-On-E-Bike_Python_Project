@@ -47,7 +47,7 @@ The raw data was enhanced by creating several new columns:
 
 | Feature | Description |
 |--------|-------------|
-| `tripduration_mins` | Converted from seconds to minutes (rounded to 2 decimals) |
+| `tripduration` | Converted from seconds to minutes (rounded to 2 decimals) |
 | `month`, `year`, `day_name` | Extracted from `starttime` |
 | `hour` | Extracted to help group trips by time of day |
 | `time_of_day` | Categorized as 'Morning', 'Afternoon', 'Evening', or 'Night' |
