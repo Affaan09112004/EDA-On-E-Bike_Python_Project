@@ -71,7 +71,7 @@ All graphs are created using **very basic syntax** — perfect for beginners in 
 
 ## 📌 Key Findings
 
-- **Subscribers take more trips** compared to Customers, especially on **weekdays**
+
 - **Customers ride longer trips** on average than Subscribers
 - Most trips happen during the **morning and evening**—typical commute times
 - The **weekend** has fewer trips, but the **average duration is longer**
